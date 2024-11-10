@@ -1,7 +1,6 @@
 # Detector Inspector Engineering Challenge
 
-This project reads tables from a Wikipedia URL, extracts relevant data, and generates bar plots. It includes tests for key functions and can be run locally or in a Docker container.
-
+This project reads tables from a Wikipedia URL, extracts relevant data, and generates bar plots. It includes tests for key functions and can be run locally
 
 ## Requirements
 
@@ -15,6 +14,7 @@ This project reads tables from a Wikipedia URL, extracts relevant data, and gene
    git clone <repository-url>
    cd DETECTOR
 2. Create a virtual environment:
+    ```bash
     python3 -m venv venv
 
 3. Activate the virtual environment:
@@ -22,10 +22,13 @@ This project reads tables from a Wikipedia URL, extracts relevant data, and gene
     + On macOS and Linux: source venv/bin/activate
 
 4. Install packages:
+    ```bash
     pip install -r requirements.txt
 
 5. Running the Program
+    ```bash
     python main.py
 
 6. Running Tests
+    ```bash
     python -m unittest test.py
