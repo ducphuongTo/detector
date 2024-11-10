@@ -11,7 +11,7 @@ This project reads tables from a Wikipedia URL, extracts relevant data, and gene
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ducphuongTo/detector.git
    cd DETECTOR
 2. Create a virtual environment:
     ```bash
