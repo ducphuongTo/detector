@@ -32,3 +32,12 @@ This project reads tables from a Wikipedia URL, extracts relevant data, and gene
 6. Running Tests
     ```bash
     python -m unittest test.py
+
+## List of some wikipedia pages:
+1. https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)
+2. https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table
+3. https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
+4. https://en.wikipedia.org/wiki/List_of_cities_proper_by_population_density
+5. https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index
+6. https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue
+7. https://en.wikipedia.org/wiki/List_of_cities_by_GDP
